@@ -1,10 +1,19 @@
-# Rust-Tutorials
+---
+author: Edson Ayllon
+category: tutorial
+tags: 
+- Rust
+status: complete
+twitter: https://twitter.com/relativeread
+---
 
-## 1 | Description
+## Research 3-2019
+
+# Rust-Tutorials
 
 A place to hold Rust tutorial projects as I go through them.
 
-## 2 | Running
+## 1 | Running
 
 Enter a project folder, then run.
 
